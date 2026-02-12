@@ -24,7 +24,11 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: aalshamasneh332@gmail.com
+<p align="left">
+  <a href="mailto:aalshamasneh332@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
